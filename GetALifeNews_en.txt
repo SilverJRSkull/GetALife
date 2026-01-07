@@ -1,15 +1,4 @@
-#1
-This is a test.
-
-What kind of test? A test to view live-updates in a newsfeed!
-It's important to test this, it's a good feature.
-
-#2
-
-Live test one.
-
-#3
-
-It works!
-
-- J.R.
+< WORK IN PROGRESS >
+This is the news feed interface.
+Here you will see up-coming features, updates, plus lots more!
+< WORK IN PROGRESS >
